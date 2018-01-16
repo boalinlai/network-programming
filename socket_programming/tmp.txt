@@ -1,0 +1,5 @@
+----begin of the file----
+This is my test file, 
+After calling "GET tmp.txt"
+you should see these lines
+----end of this file ---- 
