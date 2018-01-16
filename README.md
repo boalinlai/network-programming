@@ -15,3 +15,6 @@ ig. if client sent "cat tmp.txt" to the server, client will get the content of "
 3. client should connect server with server's ip `./client SERVER_IP PORT_NUMBER`
 4. I defined `cat` function under server, feel free to extend the server's features.
 5. Have fun!
+
+
+![ScreenShot](https://github.com/boalinlai/network-programming/blob/master/img/socket_prog_pic.png)
